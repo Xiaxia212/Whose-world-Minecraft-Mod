@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "whose_world:green_apples"
+    },
+    "b": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  "result": {
+    "id": "whose_world:ksp_green_apples",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "whose_world:block/green_apples_wd_portal_ew"
+    },
+    "axis=x": {
+      "model": "whose_world:block/green_apples_wd_portal_ns"
+    }
+  }
+}

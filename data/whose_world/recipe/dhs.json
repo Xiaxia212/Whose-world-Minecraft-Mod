@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "whose_world:green_apples"
+    },
+    "b": {
+      "item": "minecraft:flint_and_steel"
+    }
+  },
+  "result": {
+    "id": "whose_world:green_apples_wd",
+    "count": 1
+  }
+}

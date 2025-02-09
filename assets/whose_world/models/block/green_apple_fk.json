@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "whose_world:block/lbspg",
+    "up": "whose_world:block/lbspg",
+    "north": "whose_world:block/lbspg",
+    "east": "whose_world:block/lbspg",
+    "south": "whose_world:block/lbspg",
+    "west": "whose_world:block/lbspg",
+    "particle": "whose_world:block/lbspg"
+  },
+  "render_type": "solid"
+}

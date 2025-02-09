@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "whose_world:blocks/green_apple_fk",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "whose_world:green_apple_fk"
+        }
+      ]
+    }
+  ]
+}
